@@ -11,6 +11,7 @@ import { QuestionsState, Situation } from './API';
 import { GlobalStyle, Wrapper } from './App.styles';
 
 
+
 export type AnswerObject = {
   question: string;
   answer: string;
